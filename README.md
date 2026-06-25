@@ -16,6 +16,11 @@ To become a skilled AI Engineer by mastering Machine Learning, Deep Learning, an
 <br>
 💡 Favorite Quote
 > "Artificial Intelligence is the new electricity." – Andrew Ng
+<br>
+🚀 Projects I Want to Build
+- AI Chatbot
+- Image Recognition App
+- Sentiment Analysis Tool
 
 
 
