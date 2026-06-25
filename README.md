@@ -13,6 +13,9 @@ To become a skilled AI Engineer by mastering Machine Learning, Deep Learning, an
 Skills
 |C++ Programming|
 |GitHub Beginner|
+<br>
+Favorite Quote
+> "Artificial Intelligence is the new electricity." – Andrew Ng
 
 
 
