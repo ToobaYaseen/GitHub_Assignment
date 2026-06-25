@@ -16,6 +16,12 @@ Skills
 <br>
 Favorite Quote
 > "Artificial Intelligence is the new electricity." – Andrew Ng
+<br>
+Projects I Want to Build
+- AI Chatbot
+- Image Recognition App
+- Sentiment Analysis Tool
+
 
 
 
