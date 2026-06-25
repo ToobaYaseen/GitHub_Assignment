@@ -9,6 +9,12 @@ Program: BS Artificial Intelligence (BSAI)
 <br>
  Career Goal:
 To become a skilled AI Engineer by mastering Machine Learning, Deep Learning, and Generative AI, and to build innovative solutions that address real-world challenges.
+<br>
+Skills
+|C++ Programming|
+|GitHub Beginner|
+
+
 
 
 
